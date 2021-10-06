@@ -11,7 +11,7 @@
 
 .main-menuwrapper ul ul li:hover, input[type=submit]:hover, input[type=button]:hover, button:hover, .dt-sc-button:hover { background: transparent }
 
-#bbar-wrapper.header1 .dt-sc-button, .main-menuwrapper > ul > li:hover > a, .main-menuwrapper > ul > li.current_page_item > a, .main-menuwrapper ul ul li, .dl-menuwrapper button.dl-active, .dl-menuwrapper ul, #header.header3 .main-menuwrapper.nav-line > ul > li:before, #header.header3 .main-menuwrapper.nav-line > ul > li.current_page_item:before, #header.header4 .main-menuwrapper.nav-line > ul > li:before, #header.header4 .main-menuwrapper.nav-line > ul > li.current_page_item:before, #header.header5 #main-menu > ul > li:hover > a, #header.header5 #main-menu > ul > li > a:hover, #header.header5 #main-menu ul > li.current_page_item > a, #header.header5 #main-menu ul > li.current_page_ancestor > a, #header.header5 #main-menu ul > li.current-menu-item > a, #header.header5 #main-menu ul > li.current-menu-ancestor > a, .dt-menu-toggle, .tweet-box, .ico-content.type4 .icon, input[type=submit], input[type=button], button, .dt-sc-button, .dt-sc-pr-tb-col:hover, .dt-sc-pr-tb-col.selected, .dt-sc-pr-tb-col:hover .dt-sc-buy-now .dt-sc-button, .dt-sc-pr-tb-col.selected .dt-sc-buy-now .dt-sc-button, .sorting-container a.active-sort, .sorting-container a:hover, .sorting-container a.active-sort:hover, .portfolio .image-overlay a, .portfolio:hover .portfolio-detail { background-color:#f0b556;} 
+/*#bbar-wrapper.header1 .dt-sc-button, .main-menuwrapper > ul > li:hover > a, .main-menuwrapper > ul > li.current_page_item > a, .main-menuwrapper ul ul li, .dl-menuwrapper button.dl-active, #header.header4 .main-menuwrapper.nav-line > ul > li:before, #header.header4 .main-menuwrapper.nav-line > ul > li.current_page_item:before, #header.header5 #main-menu > ul > li:hover > a, #header.header5 #main-menu > ul > li > a:hover, #header.header5 #main-menu ul > li.current_page_item > a, #header.header5 #main-menu ul > li.current_page_ancestor > a, #header.header5 #main-menu ul > li.current-menu-item > a, #header.header5 #main-menu ul > li.current-menu-ancestor > a, .dt-menu-toggle, .tweet-box, .ico-content.type4 .icon, input[type=submit], input[type=button], button, .dt-sc-button, .dt-sc-pr-tb-col:hover, .dt-sc-pr-tb-col.selected, .dt-sc-pr-tb-col:hover .dt-sc-buy-now .dt-sc-button, .dt-sc-pr-tb-col.selected .dt-sc-buy-now .dt-sc-button, .sorting-container a.active-sort, .sorting-container a:hover, .sorting-container a.active-sort:hover, .portfolio .image-overlay a, .portfolio:hover .portfolio-detail { background-color:#f0b556;}/* 
 
 
 /*----*****---- << Other Generic Backgrounds >> ----*****----*/
@@ -165,5 +165,5 @@ a:hover, #bbar-wrapper a:hover, #bbar-wrapper.type2 a:hover, #bbar-wrapper .sear
 	
     @media only screen and (max-width: 479px) {
 		/** Generic **/ 
-		.testimonial-content blockquote span.quote-shape { border-bottom-color: #e8edf2; }
+		.testimonial-content blockquote span.quote-shape { border-bottom-color: #eeb55b; }
 	}
